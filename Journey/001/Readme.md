@@ -1,5 +1,4 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![Screenshot](https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/aws-identity-and-access-management/manage-iam-users-and-groups/images/d14c71356c3890e73c40d6e693fc1ae3_bff-22-d-6-b-14-a-0-423-d-a-921-a-2-ef-1-b-5093-f-8.png)
 
 # New post title here
 
