@@ -11,10 +11,8 @@
 
 [✍️ Tell us where you want to be at the end of the challenge]
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
 
-## Stepping out the door
+## AWS Fundamentals
 
 - [ ] ☁️ 1 > [IAM](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [First S3 Bucket](Journey/002/Readme.md)
