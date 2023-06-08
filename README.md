@@ -5,7 +5,7 @@
 
 ## Busi's Cloud Journey
 
-The reason I am starting this challenge is to get more hands on experience in AWS Cloud. I am hoping that by the end of this challenge I will have the confidence to build resources in the cloud and fully understand what I am doing. 
+The reason I am starting this challenge is to get more hands on experience with building infrastructure on AWS Cloud. I am hoping that by the end of this challenge I will have the confidence to build resources in the cloud and fully understand what I am doing. 
 I am using [The Cloud Developer Workbook](https://www.ryanlewis.dev/workbook/) to complete the excercises. 
 I am also using this to prepare for my AWS Solutions Architect Associate Exam.
 
