@@ -4,7 +4,7 @@
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ IAM users and groups are used to either grant or deny permissions for resources in the cloud
 
 ## Task
 1. Create a new IAM user and give it permissions
